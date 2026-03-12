@@ -32,5 +32,19 @@
     
     <!-- Language change confirmation -->
     <string name="msg_language_changed">ಭಾಷೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬದಲಾಯಿಸಲಾಗಿದೆ</string>
+
+    <string name="obj_person">ವ್ಯಕ್ತಿ</string>
+    <string name="obj_vehicle">ವಾಹನ</string>
+    <string name="obj_obstacle">ತಡೆ</string>
+    <string name="obj_animal">ಪ್ರಾಣಿ</string>
+    <string name="obj_pothole">ಗುಂಡಿ</string>
+    <string name="obj_speedbreaker">ಸ್ಪೀಡ್ ಬ್ರೇಕರ್</string>
+    <string name="obj_puddle">ನೀರಿನ ಗುಂಡಿ</string>
+    <string name="obj_curb">ಅಂಚು</string>
+    <string name="obj_trafficlight">ಟ್ರಾಫಿಕ್ ಲೈಟ್</string>
+    <string name="obj_stopsign">ನಿಲ್ಲಿಸು ಚಿಹ್ನೆ</string>
+    <string name="obj_manhole">ಮ್ಯಾನ್‌ಹೋಲ್</string>
+    <string name="obj_bench">ಬೆಂಚ್</string>
+    <string name="obj_generic">ವಸ್ತು</string>
 </resources>
 

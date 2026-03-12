@@ -32,5 +32,19 @@
     
     <!-- Language change confirmation -->
     <string name="msg_language_changed">భాష విజయవంతంగా మార్చబడింది</string>
+
+    <string name="obj_person">వ్యక్తి</string>
+    <string name="obj_vehicle">వాహనం</string>
+    <string name="obj_obstacle">అడ్డంకి</string>
+    <string name="obj_animal">జంతువు</string>
+    <string name="obj_pothole">గుంత</string>
+    <string name="obj_speedbreaker">స్పీడ్ బ్రేకర్</string>
+    <string name="obj_puddle">నీటి గుంత</string>
+    <string name="obj_curb">అంచు</string>
+    <string name="obj_trafficlight">ట్రాఫిక్ లైట్</string>
+    <string name="obj_stopsign">స్టాప్ సైన్</string>
+    <string name="obj_manhole">మ్యాన్‌హోల్</string>
+    <string name="obj_bench">బెంచ్</string>
+    <string name="obj_generic">వస్తువు</string>
 </resources>
 

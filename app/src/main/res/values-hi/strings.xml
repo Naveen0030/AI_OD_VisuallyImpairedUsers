@@ -32,5 +32,19 @@
     
     <!-- Language change confirmation -->
     <string name="msg_language_changed">भाषा सफलतापूर्वक बदल गई</string>
+
+    <string name="obj_person">व्यक्ति</string>
+    <string name="obj_vehicle">वाहन</string>
+    <string name="obj_obstacle">बाधा</string>
+    <string name="obj_animal">जानवर</string>
+    <string name="obj_pothole">गड्ढा</string>
+    <string name="obj_speedbreaker">स्पीड ब्रेकर</string>
+    <string name="obj_puddle">पानी का गड्ढा</string>
+    <string name="obj_curb">किनारा</string>
+    <string name="obj_trafficlight">ट्रैफिक लाइट</string>
+    <string name="obj_stopsign">स्टॉप साइन</string>
+    <string name="obj_manhole">मैनहोल</string>
+    <string name="obj_bench">बेंच</string>
+    <string name="obj_generic">वस्तु</string>
 </resources>
 

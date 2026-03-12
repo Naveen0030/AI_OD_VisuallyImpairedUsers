@@ -32,5 +32,19 @@
     
     <!-- Language change confirmation -->
     <string name="msg_language_changed">மொழி வெற்றிகரமாக மாற்றப்பட்டது</string>
+
+    <string name="obj_person">நபர்</string>
+    <string name="obj_vehicle">வாகனம்</string>
+    <string name="obj_obstacle">தடை</string>
+    <string name="obj_animal">விலங்கு</string>
+    <string name="obj_pothole">குழி</string>
+    <string name="obj_speedbreaker">வேக தடை</string>
+    <string name="obj_puddle">நீர் குழி</string>
+    <string name="obj_curb">ஓரம்</string>
+    <string name="obj_trafficlight">போக்குவரத்து விளக்கு</string>
+    <string name="obj_stopsign">நிறுத்த அடையாளம்</string>
+    <string name="obj_manhole">மேன்ஹோல்</string>
+    <string name="obj_bench">இருக்கை</string>
+    <string name="obj_generic">பொருள்</string>
 </resources>
 

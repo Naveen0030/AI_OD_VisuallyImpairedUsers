@@ -51,4 +51,18 @@
     
     <!-- Language change confirmation -->
     <string name="msg_language_changed">Language changed successfully</string>
+
+    <string name="obj_person">person</string>
+    <string name="obj_vehicle">vehicle</string>
+    <string name="obj_obstacle">obstacle</string>
+    <string name="obj_animal">animal</string>
+    <string name="obj_pothole">pothole</string>
+    <string name="obj_speedbreaker">speed breaker</string>
+    <string name="obj_puddle">puddle</string>
+    <string name="obj_curb">curb</string>
+    <string name="obj_trafficlight">traffic light</string>
+    <string name="obj_stopsign">stop sign</string>
+    <string name="obj_manhole">manhole</string>
+    <string name="obj_bench">bench</string>
+    <string name="obj_generic">object</string>
 </resources>
