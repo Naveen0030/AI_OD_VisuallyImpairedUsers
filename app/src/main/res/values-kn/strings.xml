@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BA-v2</string>
+    <string name="notif_running">ನವಿಗೇಶನ್ ಕಾರ್ಯನಿರತವಾಗಿದೆ</string>
+    <string name="notif_channel_name">ಮಾರ್ಗದರ್ಶನ</string>
+    <string name="notif_channel_desc">ನಿರಂತರ ಆಡಿಯೋ ನವಿಗೇಶನ್</string>
+
+    <string name="cmd_move_left">ಎಡಕ್ಕೆ ಸಾಗಿರಿ</string>
+    <string name="cmd_move_right">ಬಲಕ್ಕೆ ಸಾಗಿರಿ</string>
+    <string name="cmd_continue">ಮುಂದುವರಿಸಿ</string>
+    <string name="cmd_stop">ನಿಲ್ಲಿಸಿ</string>
+    <string name="cmd_slight_left">ಸ್ವಲ್ಪ ಎಡ</string>
+    <string name="cmd_slight_right">ಸ್ವಲ್ಪ ಬಲ</string>
+    
+    <string name="btn_start">ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="btn_start_desc">ನವಿಗೇಶನ್ ಮಾರ್ಗದರ್ಶನವನ್ನು ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="btn_end">ನಿಲ್ಲಿಸಿ</string>
+    <string name="btn_end_desc">ನವಿಗೇಶನ್ ಮಾರ್ಗದರ್ಶನವನ್ನು ನಿಲ್ಲಿಸಿ</string>
+    <string name="language_picker_title">ಮಾರ್ಗದರ್ಶನ ಭಾಷೆಯನ್ನು ಆರಿಸಿ</string>
+    <string name="language_picker_confirm">ಮುಂದುವರಿಸಿ</string>
+    
+    <string name="msg_guidance_started">ನವಿಗೇಶನ್ ಮಾರ್ಗದರ್ಶನ ಪ್ರಾರಂಭವಾಗಿದೆ</string>
+    <string name="msg_person_detected">ವ್ಯಕ್ತಿ %1$s ಪತ್ತೆಯಾಗಿದೆ</string>
+    <string name="msg_vehicle_detected">ವಾಹನ %1$s ಪತ್ತೆಯಾಗಿದೆ</string>
+    <string name="msg_obstacle_detected">ತಡೆ %1$s ಪತ್ತೆಯಾಗಿದೆ</string>
+    <string name="msg_object_detected">ವಸ್ತು %1$s ಪತ್ತೆಯಾಗಿದೆ</string>
+    <string name="msg_unknown_detected">%1$s %2$s ಪತ್ತೆಯಾಗಿದೆ</string>
+    
+    <string name="distance_very_close">ಬಹಳ ಹತ್ತಿರ</string>
+    <string name="distance_close">ಹತ್ತಿರ</string>
+    <string name="distance_medium">ಮಧ್ಯಮ ದೂರ</string>
+    <string name="distance_ahead">ಮುಂದೆ</string>
+    
+    <!-- Language change confirmation -->
+    <string name="msg_language_changed">ಭಾಷೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬದಲಾಯಿಸಲಾಗಿದೆ</string>
+</resources>
+

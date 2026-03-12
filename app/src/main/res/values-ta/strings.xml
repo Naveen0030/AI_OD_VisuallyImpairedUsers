@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BA-v2</string>
+    <string name="notif_running">வழிகாட்டல் செயலிலுள்ளது</string>
+    <string name="notif_channel_name">வழிகாட்டல்</string>
+    <string name="notif_channel_desc">தொடர்ச்சியான ஆடியோ வழிகாட்டல்</string>
+
+    <string name="cmd_move_left">இடப்பக்கம் செல்லவும்</string>
+    <string name="cmd_move_right">வலப்பக்கம் செல்லவும்</string>
+    <string name="cmd_continue">தொடரவும்</string>
+    <string name="cmd_stop">நிறுத்தவும்</string>
+    <string name="cmd_slight_left">சிறிது இடது</string>
+    <string name="cmd_slight_right">சிறிது வலம்</string>
+    
+    <string name="btn_start">தொடங்கு</string>
+    <string name="btn_start_desc">வழிகாட்டலைத் தொடங்கு</string>
+    <string name="btn_end">நிறுத்து</string>
+    <string name="btn_end_desc">வழிகாட்டலை நிறுத்து</string>
+    <string name="language_picker_title">வழிகாட்டல் மொழியைத் தேர்ந்தெடு</string>
+    <string name="language_picker_confirm">தொடர</string>
+    
+    <string name="msg_guidance_started">வழிகாட்டல் தொடங்கப்பட்டது</string>
+    <string name="msg_person_detected">நபர் %1$s கண்டறியப்பட்டது</string>
+    <string name="msg_vehicle_detected">வாகனம் %1$s கண்டறியப்பட்டது</string>
+    <string name="msg_obstacle_detected">தடை %1$s கண்டறியப்பட்டது</string>
+    <string name="msg_object_detected">பொருள் %1$s கண்டறியப்பட்டது</string>
+    <string name="msg_unknown_detected">%1$s %2$s கண்டறியப்பட்டது</string>
+    
+    <string name="distance_very_close">மிக நெருக்கமாக</string>
+    <string name="distance_close">நெருக்கமாக</string>
+    <string name="distance_medium">நடுத்தர தூரம்</string>
+    <string name="distance_ahead">முன்னால்</string>
+    
+    <!-- Language change confirmation -->
+    <string name="msg_language_changed">மொழி வெற்றிகரமாக மாற்றப்பட்டது</string>
+</resources>
+

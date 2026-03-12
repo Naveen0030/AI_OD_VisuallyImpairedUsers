@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BA-v2</string>
+    <string name="notif_running">नेविगेशन चल रहा है</string>
+    <string name="notif_channel_name">मार्गदर्शन</string>
+    <string name="notif_channel_desc">लगातार ऑडियो नेविगेशन</string>
+
+    <string name="cmd_move_left">बाएँ जाएँ</string>
+    <string name="cmd_move_right">दाएँ जाएँ</string>
+    <string name="cmd_continue">जारी रखें</string>
+    <string name="cmd_stop">रुकें</string>
+    <string name="cmd_slight_left">थोड़ा बाएँ</string>
+    <string name="cmd_slight_right">थोड़ा दाएँ</string>
+    
+    <string name="btn_start">शुरू करें</string>
+    <string name="btn_start_desc">नेविगेशन मार्गदर्शन शुरू करें</string>
+    <string name="btn_end">रोकें</string>
+    <string name="btn_end_desc">नेविगेशन मार्गदर्शन रोकें</string>
+    <string name="language_picker_title">मार्गदर्शन भाषा चुनें</string>
+    <string name="language_picker_confirm">जारी रखें</string>
+    
+    <string name="msg_guidance_started">नेविगेशन मार्गदर्शन शुरू हो गया</string>
+    <string name="msg_person_detected">व्यक्ति %1$s का पता चला</string>
+    <string name="msg_vehicle_detected">वाहन %1$s का पता चला</string>
+    <string name="msg_obstacle_detected">बाधा %1$s का पता चला</string>
+    <string name="msg_object_detected">वस्तु %1$s का पता चला</string>
+    <string name="msg_unknown_detected">%1$s %2$s का पता चला</string>
+    
+    <string name="distance_very_close">बहुत करीब</string>
+    <string name="distance_close">करीब</string>
+    <string name="distance_medium">मध्यम दूरी</string>
+    <string name="distance_ahead">आगे</string>
+    
+    <!-- Language change confirmation -->
+    <string name="msg_language_changed">भाषा सफलतापूर्वक बदल गई</string>
+</resources>
+

@@ -1,0 +1,24 @@
+auto
+barricade
+bench
+bicycle
+bus
+car
+cat
+chair
+cow
+curb
+dog
+horse
+manhole
+motorcycle
+person
+pole
+pothole
+potted plant
+puddle
+sheep
+speedbreaker
+stop sign
+traffic light
+truck

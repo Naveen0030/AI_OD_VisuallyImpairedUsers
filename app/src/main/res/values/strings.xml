@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">BA-v2</string>
+    <string name="notif_running">Navigation guidance running</string>
+    <string name="notif_channel_name">Guidance</string>
+    <string name="notif_channel_desc">Continuous audio navigation</string>
+
+    <string name="cmd_move_left">Move left</string>
+    <string name="cmd_move_right">Move right</string>
+    <string name="cmd_continue">Continue</string>
+    <string name="cmd_stop">Stop</string>
+    <string name="cmd_slight_left">Slight left</string>
+    <string name="cmd_slight_right">Slight right</string>
+    
+    <string name="btn_start">Start</string>
+    <string name="btn_start_desc">Start navigation guidance</string>
+    <string name="btn_end">End</string>
+    <string name="btn_end_desc">Stop navigation guidance</string>
+    <string name="camera_preview_desc">Camera preview for visual users</string>
+    <string name="language_picker_title">Select guidance language</string>
+    <string name="language_picker_confirm">Continue</string>
+
+    <string-array name="language_names">
+        <item>English</item>
+        <item>Telugu</item>
+        <item>Hindi</item>
+        <item>Tamil</item>
+        <item>Kannada</item>
+    </string-array>
+
+    <string-array name="language_codes">
+        <item>en</item>
+        <item>te</item>
+        <item>hi</item>
+        <item>ta</item>
+        <item>kn</item>
+    </string-array>
+
+    <!-- Object detection messages -->
+    <string name="msg_guidance_started">Navigation guidance started</string>
+    <string name="msg_person_detected">Person detected %1$s</string>
+    <string name="msg_vehicle_detected">Vehicle detected %1$s</string>
+    <string name="msg_obstacle_detected">Obstacle detected %1$s</string>
+    <string name="msg_object_detected">Object detected %1$s</string>
+    <string name="msg_unknown_detected">%1$s detected %2$s</string>
+    
+    <!-- Distance descriptions -->
+    <string name="distance_very_close">very close</string>
+    <string name="distance_close">close</string>
+    <string name="distance_medium">medium distance</string>
+    <string name="distance_ahead">ahead</string>
+    
+    <!-- Language change confirmation -->
+    <string name="msg_language_changed">Language changed successfully</string>
+</resources>
